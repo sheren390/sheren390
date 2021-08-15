@@ -4,7 +4,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/sherengamil390/" title="LinkedIn Profile"><img width="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5aK9koXnWb3ZVf-sMcbpa-24dzf6okBdEIRHPUyrAjXgcDdetZrDXkld_Lvp8V8ukq3I&usqp=CAU"></a></code>
-  <code><a href="mailto:eothman21@gmail.com" title="Gmail"><img width="35" src="https://raw.githubusercontent.com/timche/gmail-desktop/d2f8efa6527c3f2bd17808a4573c47234f110b0f/media/icon.svg"> </a></code>
+  <code><a href="mailto:sherengamil390@gmail.com" title="Gmail"><img width="35" src="https://raw.githubusercontent.com/timche/gmail-desktop/d2f8efa6527c3f2bd17808a4573c47234f110b0f/media/icon.svg"> </a></code>
 </h5>
 
 #  <img width="55" src="https://img.icons8.com/office/80/000000/administrator-female.png"/> <b style="font-family: Times New Roman; list-style-type: upper-roman;font-size:35px; "> About me</b> 
