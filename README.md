@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611d98fe0e190cf9dd349b4d77f3cf757dc19e84337&rid=giphy.gif&ct=g" alt="Coder GIF" width="500" height="400">
+  <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611d98fe0e190cf9dd349b4d77f3cf757dc19e84337&rid=giphy.gif&ct=g" alt="Coder GIF">
 </p>
 
 <h5 align="center">
@@ -7,7 +7,7 @@
   <code><a href="mailto:eothman21@gmail.com" title="Gmail"><img width="35" src="https://raw.githubusercontent.com/timche/gmail-desktop/d2f8efa6527c3f2bd17808a4573c47234f110b0f/media/icon.svg"> </a></code>
 </h5>
 
-# <img width="55" src="https://img.icons8.com/office/80/000000/administrator-female.png"/>  About me 
+#  <img width="55" src="https://img.icons8.com/office/80/000000/administrator-female.png"/> <b style="font-family: Times New Roman; list-style-type: upper-roman;font-size:35px; "> About me</b> 
 
 - <p>
   I'm a senior student at Systems and Biomedical department, faculty of Engineering, Cairo University. 
@@ -17,7 +17,7 @@
   </p>
 
 
-#  <b style="font-family: Times New Roman; list-style-type: upper-roman;font-size:26px; ">Languages and Tools</b>
+#  <b style="font-family: Times New Roman; list-style-type: upper-roman;font-size:33px; ">Languages and Tools</b>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
