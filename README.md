@@ -10,10 +10,10 @@
 #  <img width="55" src="https://img.icons8.com/office/80/000000/administrator-female.png"/> <b style="font-family: Times New Roman; list-style-type: upper-roman;font-size:35px; "> About me</b> 
 
 - <p>
-  I'm a senior student at Systems and Biomedical department, faculty of Engineering, Cairo University. 
+  I'm a frish graduate engineer from Systems and Biomedical department, faculty of Engineering, Cairo University. 
   </p>
 - <p>
-  I'm interested in front-end development, problem solving and machine learning. 
+  I'm interested in web development and problem solving. 
   </p>
 
 
